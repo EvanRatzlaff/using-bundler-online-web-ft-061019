@@ -1,9 +1,8 @@
 source "https://rubygems.org"
 gem "rspec"
 gem "sinatra"
-gem "hashie
-Sinatra
-Octokit
+gem "hashie"
+gem "octokit"
 Pry
 AwesomePrint"
  
